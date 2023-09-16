@@ -7,7 +7,11 @@
    <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"/>
    <img src="https://img.shields.io/badge/debian-A81D33?style=flat&logo=debian&logoColor=white"/>
    <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat&logo=windows11&logoColor=white"/>
-   
+</div>
+<div align="center">
+   <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SamsungSDS-1428A0?style=flat&logo=samsung&logoColor=white"/>
 </div>
 
 ## Topic
