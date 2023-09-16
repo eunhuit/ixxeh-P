@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/SamsungSDS-1428A0?style=flat&logo=samsung&logoColor=white"/>
 </div>
 
-## Topic
+## My resolutions
 ```sh
-- Predict the weather by measuring humidity using Arduino's DHT11 or DHT22 sensor and atmospheric pressure using BMP180 or BMP280.
+- I will succeed and gain money and fame.
 ```
