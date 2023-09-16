@@ -1,4 +1,4 @@
-###👋 ixxeh-P's Git
+### ixxeh-P's Git 🤭
 > Welcome to ixxeh_P's Git!
 
 <div align="center">
