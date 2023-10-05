@@ -26,5 +26,3 @@
 ```sh
 - I will succeed and gain money and fame.
 ```
- 
-     
