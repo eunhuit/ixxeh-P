@@ -25,6 +25,6 @@
 
 ## My resolutions
 ```sh
-- I will succeed and gain money and fame.
+- You can't steal victory
 ```
  
