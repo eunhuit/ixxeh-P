@@ -24,7 +24,7 @@
 </div>
 
 ## My resolutions
-```sh
+```
 - You can't steal victory
 ```
  
