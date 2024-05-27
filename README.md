@@ -23,8 +23,8 @@
    
 </div>
 
-## My resolutions
+## My motto
 ```
-- You can't steal victory
+- Computers can't lie to you
 ```
  
