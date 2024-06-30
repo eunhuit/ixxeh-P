@@ -31,4 +31,4 @@
 </details>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ixxeh-p&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Mono&weight=300&size=26&pause=1000&random=true&width=435&lines=Computers+don't+lie+to+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&random=false&width=435&lines=Computers+don't+lie+to+you.)](https://git.io/typing-svg)
